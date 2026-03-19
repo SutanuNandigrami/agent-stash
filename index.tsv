@@ -1,14 +1,19 @@
 name	tags	description	model-hint
+accessibility-auditor	accessibility,wcag,a11y,inclusive-design,testing	Accessibility specialist auditing interfaces against WCAG standards and testing with assistive technologies.	sonnet
 agents-orchestrator	orchestration,multi-agent,workflow,coordination,planning	Autonomous pipeline manager that orchestrates the entire development workflow. You are the leader of this process.	opus
 ai-engineer	ai,ml,llm,agents,python,transformers,langchain	Expert AI/ML engineer specializing in machine learning model development, deployment, and integration into production systems. Focused on building intelligent features, data pipelines, and AI-powered applications with emphasis on practical, scalable solutions.	sonnet
 api-designer	api,rest,graphql,openapi,http,design,fastapi	REST/GraphQL API design, OpenAPI specs, FastAPI implementation	sonnet
+api-tester	testing,api,security,performance,validation	Expert API testing specialist ensuring comprehensive validation, performance testing, and quality assurance across systems and integrations	sonnet
 backend-architect	backend,architecture,api,database,microservices	Senior backend architect specializing in scalable system design, database architecture, API development, and cloud infrastructure. Builds robust, secure, performant server-side applications and microservices	sonnet
 bash-scripter	bash,shell,scripting,automation,shellcheck,posix	Writes shellcheck-clean bash scripts for automation	haiku
 data-analyst	data,sql,pandas,duckdb,csv,json,analytics	Analyzes data using SQL, pandas, DuckDB — wrangling and insights	haiku
+database-optimizer	database,postgresql,mysql,performance,optimization	Database performance expert specializing in schema design, query optimization, and indexing strategies.	sonnet
 data-engineer	data-engineering,pipelines,etl,spark,airflow,kafka	Expert data engineer specializing in building reliable data pipelines, lakehouse architectures, and scalable data infrastructure. Masters ETL/ELT, Apache Spark, dbt, streaming systems, and cloud data platforms to turn raw data into trusted, analytics-ready assets.	haiku
 debugger	debugging,root-cause,logs,tracing,performance,profiling	Systematic debugging, root cause analysis, log analysis	sonnet
 devops-automator	devops,docker,kubernetes,terraform,ansible,ci-cd	Automates infrastructure tasks, container builds, and deployments	sonnet
 docs-writer	documentation,readme,adr,markdown,technical-writing	Technical docs, READMEs, architecture decision records	haiku
+document-generator	documents,pdf,pptx,docx,xlsx,automation,code-based	Generates professional PDFs, presentations, spreadsheets, and Word documents using code-based approaches	sonnet
+experiment-tracker	experimentation,a-b-testing,data-driven,hypothesis,project-management	Project manager specializing in experiment design, execution tracking, and data-driven decision making.	sonnet
 firmware-engineer	embedded,firmware,c,microcontroller,iot,hardware	Specialist in bare-metal and RTOS firmware - ESP32/ESP-IDF, PlatformIO, Arduino, ARM Cortex-M, STM32 HAL/LL, Nordic nRF5/nRF Connect SDK, FreeRTOS, Zephyr	sonnet
 frontend-developer	frontend,react,vue,css,javascript,html	Expert frontend developer specializing in modern web technologies, React/Vue/Angular frameworks, UI implementation, and performance optimization	haiku
 game-designer	game-design,mechanics,systems,balance,gameplay	Systems and mechanics architect - Masters GDD authorship, player psychology, economy balancing, and gameplay loop design across all engines and genres	sonnet
@@ -16,16 +21,23 @@ git-specialist	git,history,rebase,bisect,workflow,branches,merge	Complex git ope
 image-prompt-engineer	image,ai-art,stable-diffusion,midjourney,prompts,generation	Expert photography prompt engineer specializing in crafting detailed, evocative prompts for AI image generation. Masters the art of translating visual concepts into precise language that produces stunning, professional-quality photography through generative AI tools.	haiku
 level-designer	level-design,environment,layout,pacing,spatial	Spatial storytelling and flow specialist - Masters layout theory, pacing architecture, encounter design, and environmental narrative across all game engines	haiku
 lsp-index-engineer	lsp,code-index,symbols,language-server,tooling	Language Server Protocol specialist building unified code intelligence systems through LSP client orchestration and semantic indexing	haiku
+mcp-builder	mcp,sdk,integration,tools,protocol	Builds production-quality MCP servers with secure tools, resources, and error handling	sonnet
 mobile-app-builder	mobile,ios,android,react-native,flutter	Specialized mobile application developer with expertise in native iOS/Android development and cross-platform frameworks	haiku
 narrative-designer	narrative,story,dialogue,worldbuilding,writing	Story systems and dialogue architect - Masters GDD-aligned narrative design, branching dialogue, lore architecture, and environmental storytelling across all game engines	haiku
 optimization-architect	optimization,performance,algorithms,system-design	Intelligent system governor that continuously shadow-tests APIs for performance while enforcing strict financial and security guardrails against runaway costs.	sonnet
+performance-benchmarker	performance,testing,benchmarking,optimization,metrics,load-testing,scalability	Measures, analyzes, and optimizes system performance across applications and infrastructure	opus
 python-expert	python,typing,testing,packaging,uv,ruff,async	Deep Python expertise with modern tooling — uv, ruff, type hints	haiku
 rapid-prototyper	prototyping,mvp,poc,quick-build	Specialized in ultra-fast proof-of-concept development and MVP creation using efficient tools and frameworks	haiku
+reality-checker	testing,qa,integration,validation,evidence-based	Stops fantasy approvals and requires overwhelming evidence before production readiness certification	sonnet
 refactorer	refactoring,design-patterns,clean-code,complexity,solid	Code refactoring, design patterns, complexity reduction	sonnet
 senior-developer	senior,code-review,architecture,best-practices	Premium implementation specialist - Masters Laravel/Livewire/FluxUI, advanced CSS, Three.js integration	sonnet
 technical-writer	technical-writing,docs,api-docs,tutorials,manuals	Expert technical writer specializing in developer documentation, API references, README files, and tutorials. Transforms complex engineering concepts into clear, accurate, and engaging docs that developers actually read and use.	haiku
 test-engineer	testing,pytest,mocking,coverage,tdd,fixtures	Test strategy, pytest, mocking, coverage — TDD approach	haiku
-ui-designer	ui,design,figma,components,visual,layout	Expert UI designer specializing in visual design systems, component libraries, and pixel-perfect interface creation. Creates beautiful, consistent, accessible user interfaces that enhance UX and reflect brand identity	haiku
+tool-evaluator	tools,evaluation,technology,roi,adoption	Expert technology assessment specialist evaluating and recommending tools, software, and platforms for business use and productivity optimization	sonnet
+ui-designer	ui,design,design-systems,components,accessibility,visual-design	Creates beautiful, consistent, accessible user interfaces with design systems and component libraries	sonnet
 ux-architect	ux,architecture,information-design,flows,wireframes	Technical architecture and UX specialist who provides developers with solid foundations, CSS systems, and clear implementation guidance	sonnet
-ux-researcher	ux,research,user-testing,personas,interviews,usability	Expert user experience researcher specializing in user behavior analysis, usability testing, and data-driven design insights. Provides actionable research findings that improve product usability and user satisfaction	haiku
+ux-researcher	ux,research,user-testing,usability,analytics,qualitative,quantitative	Provides actionable research insights through user testing, behavioral analysis, and data-driven recommendations	opus
 visual-storyteller	visual,storytelling,narrative,presentation,infographic	Expert visual communication specialist focused on creating compelling visual narratives, multimedia content, and brand storytelling through design. Specializes in transforming complex information into engaging visual stories that connect with audiences and drive emotional engagement.	haiku
+workflow-architect	workflow,design,specification,architecture,system-design	Maps complete workflow trees covering happy paths, branch conditions, failure modes, recovery paths, and handoff contracts producing build-ready specs	opus
+workflow-optimizer	process-improvement,automation,lean,efficiency	Process improvement specialist analyzing and optimizing workflows with Lean, Six Sigma, and automation.	sonnet
+zk-steward	knowledge-base,zettelkasten,research,learning,system-thinking	Knowledge-base steward channeling Niklas Luhmann's Zettelkasten principles, enforcing atomic notes, connectivity, and validation loops for complex task breakdown	sonnet
