@@ -31,6 +31,7 @@ rapid-prototyper	prototyping,mvp,poc,quick-build	Specialized in ultra-fast proof
 reality-checker	testing,qa,integration,validation,evidence-based	Stops fantasy approvals and requires overwhelming evidence before production readiness certification	sonnet
 refactorer	refactoring,design-patterns,clean-code,complexity,solid	Code refactoring, design patterns, complexity reduction	sonnet
 senior-developer	senior,code-review,architecture,best-practices	Premium implementation specialist - Masters Laravel/Livewire/FluxUI, advanced CSS, Three.js integration	sonnet
+shape-shifter	skills,discovery,automation,meta-agent,skills-sh	Meta-agent that discovers, vets, temporarily installs, and uses skills from skills.sh to complete tasks, then cleans up	opus
 technical-writer	technical-writing,docs,api-docs,tutorials,manuals	Expert technical writer specializing in developer documentation, API references, README files, and tutorials. Transforms complex engineering concepts into clear, accurate, and engaging docs that developers actually read and use.	haiku
 test-engineer	testing,pytest,mocking,coverage,tdd,fixtures	Test strategy, pytest, mocking, coverage — TDD approach	haiku
 tool-evaluator	tools,evaluation,technology,roi,adoption	Expert technology assessment specialist evaluating and recommending tools, software, and platforms for business use and productivity optimization	sonnet
